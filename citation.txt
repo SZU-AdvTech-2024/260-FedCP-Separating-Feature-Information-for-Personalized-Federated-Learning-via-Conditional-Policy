@@ -1,6 +1,5 @@
 @inproceedings{REPO260,
     author = "Zhang, Jianqing and Hua, Yang and Wang, Hao and Song, Tao and Xue, Zhengui and Ma, Ruhui and Guan, Haibing",
-    isbn = "9798400701030",
     publisher = "Association for Computing Machinery",
     series = "KDD '23",
     title = "{FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy}",
